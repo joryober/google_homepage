@@ -1,0 +1,55 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+
+
+.footer-a {
+   display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+li {
+    display: inline;
+    padding: 8px;
+}
+
+.google-logo {
+    padding-top: 109px;
+    height: 90px;
+    width: 20%;
+    display: block;
+    margin-right: 50%;
+    margin-left: 40%; 
+    
+  }
+
+.apps {
+    height: 20px;
+    width: 20px;
+}
+
+  input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 20px;
+ 
+
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer-navbar {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;   
+  }
